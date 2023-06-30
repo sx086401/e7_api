@@ -1,0 +1,20 @@
+version: "3"
+networks:
+  epic_seven:
+volumes:
+  db_data:
+services:
+  db:
+    image: postgres:13
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - epic_seven
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: e7_db
+    ports:
+      - 5432:5432
+    restart: always
