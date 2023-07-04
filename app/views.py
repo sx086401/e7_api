@@ -1,26 +1,38 @@
-import json
-from django.views import View
-from django.http import JsonResponse
 from app.models import Users
-from app import forms
+from rest_framework import generics
+from rest_framework.response import Response
+from .serializers import UserSerializer, UserUpdateSerializer
 
-# Create your views here.
+class UserListView(generics.ListAPIView):
+    queryset = Users.objects.all()
+    serializer_class = UserSerializer
 
-class UserView(View):
-    def get(self, request):
-        users = Users.objects.all()
-        user_data = list(users.values('name', 'is_active'))
+class UserCreateView(generics.CreateAPIView):
+    queryset = Users.objects.all()
+    serializer_class = UserSerializer
 
-        return JsonResponse({'users': user_data})
+    def create(self, request, *args, **kwargs):
+        response = super().create(request, *args, **kwargs)
+        return Response({
+            'status': 200,
+            'data': response.data
+        })
 
-    def post(self, request):
-        try:
-            request_data = json.loads(request.body)
-            form = forms.UserForm(request_data)
-            if (form.is_valid()):
-                user = Users.objects.create(name=form.cleaned_data['name'], password=form.cleaned_data['password'])
-                return JsonResponse({'message': 'User created successfully', 'user_id': user.id})
-            else:
-                return JsonResponse({'error': form.errors}, status=400)
-        except:
-          return JsonResponse({'error': 'Bad Request'}, status=400)
+class UserDetailView(generics.RetrieveAPIView):
+    queryset = Users.objects.all()
+    serializer_class = UserSerializer
+    lookup_field = 'pk'
+
+class UserUpdateView(generics.UpdateAPIView):
+    queryset = Users.objects.all()
+    serializer_class = UserUpdateSerializer
+    lookup_field = 'pk'
+
+    def perform_update(self, serializer):
+        serializer.save()
+
+class UserDeleteView(generics.DestroyAPIView):
+    queryset = Users.objects.all()
+    serializer_class = UserSerializer
+    lookup_field = 'pk'
+
