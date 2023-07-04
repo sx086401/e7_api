@@ -4,9 +4,11 @@ from . import views
 app_name = 'app'
 
 urlpatterns = [
-    path('users', views.UserListView.as_view()),
-    path('users/create', views.UserCreateView.as_view()),
-    path('users/<int:pk>', views.UserDetailView.as_view()),
-    path('users/<int:pk>/update', views.UserUpdateView.as_view()),
-    path('users/<int:pk>/delete', views.UserDeleteView.as_view()),
+    path('users/', views.user_list_create_view),
+    path('users/<int:pk>', views.user_detail_view),
+    path('users/<int:pk>/update', views.user_update_view),
+    path('users/<int:pk>/delete', views.user_delete_view),
+    path('characters', views.character_list_create_view),
+    path('characters/<int:pk>', views.character_detail_view),
+    path('characters/<int:pk>/update', views.character_detail_view),
 ]

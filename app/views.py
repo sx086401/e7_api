@@ -1,38 +1,16 @@
-from app.models import Users
-from rest_framework import generics
-from rest_framework.response import Response
-from .serializers import UserSerializer, UserUpdateSerializer
+from .view.users import UserListCreateView, UserDetailView, UserUpdateView, UserDeleteView
+from .view.characters import CharacterListCreateView, CharacterDetailView, CharacterUpdateView
 
-class UserListView(generics.ListAPIView):
-    queryset = Users.objects.all()
-    serializer_class = UserSerializer
+user_list_create_view = UserListCreateView.as_view()
 
-class UserCreateView(generics.CreateAPIView):
-    queryset = Users.objects.all()
-    serializer_class = UserSerializer
+user_detail_view = UserDetailView.as_view()
 
-    def create(self, request, *args, **kwargs):
-        response = super().create(request, *args, **kwargs)
-        return Response({
-            'status': 200,
-            'data': response.data
-        })
+user_update_view = UserUpdateView.as_view()
 
-class UserDetailView(generics.RetrieveAPIView):
-    queryset = Users.objects.all()
-    serializer_class = UserSerializer
-    lookup_field = 'pk'
+user_delete_view = UserDeleteView.as_view()
 
-class UserUpdateView(generics.UpdateAPIView):
-    queryset = Users.objects.all()
-    serializer_class = UserUpdateSerializer
-    lookup_field = 'pk'
+character_list_create_view = CharacterListCreateView.as_view()
 
-    def perform_update(self, serializer):
-        serializer.save()
+character_detail_view = CharacterDetailView.as_view()
 
-class UserDeleteView(generics.DestroyAPIView):
-    queryset = Users.objects.all()
-    serializer_class = UserSerializer
-    lookup_field = 'pk'
-
+character_update_view = CharacterUpdateView.as_view()
