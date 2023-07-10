@@ -9,10 +9,11 @@ from app.serializers import StateSerializer
 class StatesFilter(FilterSet):
     element = CharFilter(field_name='character__element', lookup_expr='exact')
     star = CharFilter(field_name='character__star', lookup_expr='exact')
+    classes = CharFilter(field_name='character__classes', lookup_expr='exact')
 
     class Meta:
         model = States
-        fields = ['element', 'star']
+        fields = ['element', 'star', 'classes']
 
 class StateListCreateView(generics.ListCreateAPIView):
     queryset = States.objects.all()

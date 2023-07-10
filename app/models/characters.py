@@ -5,3 +5,4 @@ class Characters(models.Model):
     image_url = models.CharField()
     element = models.CharField(max_length=50)
     star = models.IntegerField()
+    classes = models.CharField(max_length=50)

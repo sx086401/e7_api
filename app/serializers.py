@@ -24,11 +24,16 @@ class CharacterSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Characters
-        fields = ['id', 'name', 'image_url', 'element', 'star']
+        fields = ['id', 'name', 'image_url', 'element', 'star', 'classes']
 
     def validate_element(self, value):
         if value not in ['fire', 'ice', 'earth', 'light', 'dark']:
-          raise serializers.ValidationError('element is not valid')
+            raise serializers.ValidationError('element is not valid')
+        return value
+
+    def validate_classes(self, value):
+        if value not in ['warrior', 'knight', 'thief', 'ranger', 'mage', 'soul_weaver']:
+            raise serializers.ValidationError('classes is not valid')
         return value
 
 
