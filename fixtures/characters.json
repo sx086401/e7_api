@@ -1,0 +1,2964 @@
+[
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1144_s.png",
+      "name": "雅碧凱",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1017_s.png",
+      "name": "雅卡泰絲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3143_s.png",
+      "name": "艾庭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3043_s.png",
+      "name": "亞迪賴",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5001_s.png",
+      "name": "冒險家拉斯",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1138_s.png",
+      "name": "ae-GISELLE",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1137_s.png",
+      "name": "ae-KARINA",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1140_s.png",
+      "name": "ae-NINGNING",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1139_s.png",
+      "name": "ae-WINTER",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3105_s.png",
+      "name": "艾諾斯",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4105_s.png",
+      "name": "艾諾斯 2.0",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3093_s.png",
+      "name": "艾因茲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1018_s.png",
+      "name": "埃德勒",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1100_s.png",
+      "name": "艾蓮西雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3012_s.png",
+      "name": "雅莉莎",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4065_s.png",
+      "name": "疑難雜症專家汪達",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2042_s.png",
+      "name": "野心分子泰溫",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1143_s.png",
+      "name": "雅咪德",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "pk": 1,
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c6062_s.png",
+      "name": "光之天使安潔莉卡",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4042_s.png",
+      "name": "守護天使蒙茉朗西",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1062_s.png",
+      "name": "安潔莉卡",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "pk": 2,
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2019_s.png",
+      "name": "末日蘿菲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1048_s.png",
+      "name": "雅拉敏塔",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2007_s.png",
+      "name": "執行官維德瑞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5004_s.png",
+      "name": "魔神的暗影",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2099_s.png",
+      "name": "策劃者萊伊卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1129_s.png",
+      "name": "艾莉雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1008_s.png",
+      "name": "亞敏",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3004_s.png",
+      "name": "雅洛薇",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1124_s.png",
+      "name": "亞露嘉",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2013_s.png",
+      "name": "殺手卡爾圖哈",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2014_s.png",
+      "name": "殺手席德",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2033_s.png",
+      "name": "殺手可麗",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2091_s.png",
+      "name": "星辰的神諭艾蕾娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2031_s.png",
+      "name": "輔助型拉茲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3031_s.png",
+      "name": "亞潔理亞",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1015_s.png",
+      "name": "巴爾＆塞尚",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c6008_s.png",
+      "name": "壞壞貓亞敏",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1093_s.png",
+      "name": "梅喧",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1053_s.png",
+      "name": "巴薩爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3006_s.png",
+      "name": "巴思克",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3095_s.png",
+      "name": "巴托斯",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1141_s.png",
+      "name": "雨脩",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1117_s.png",
+      "name": "伯里安",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1071_s.png",
+      "name": "維爾蘿娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2043_s.png",
+      "name": "仁慈的洛曼",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/benimaruPortrait.png",
+      "name": "紅丸",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2021_s.png",
+      "name": "烈火汀果",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2011_s.png",
+      "name": "血劍卡琳",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2039_s.png",
+      "name": "赤月貴族海斯特",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1097_s.png",
+      "name": "爆擊型卡農",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2024_s.png",
+      "name": "灰光森林的伊賽麗亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3001_s.png",
+      "name": "屠殺部隊員",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3124_s.png",
+      "name": "卡蜜拉",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4034_s.png",
+      "name": "先鋒隊長里科黎司",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3071_s.png",
+      "name": "卡麥蘿茲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3051_s.png",
+      "name": "卡蘿",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1013_s.png",
+      "name": "卡爾圖哈",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1002_s.png",
+      "name": "賽西莉亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3064_s.png",
+      "name": "賽雷斯特",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2005_s.png",
+      "name": "外太空的玫勒賽德絲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1103_s.png",
+      "name": "瑟琳",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1081_s.png",
+      "name": "賽瑞絲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1079_s.png",
+      "name": "潔若米亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2037_s.png",
+      "name": "挑戰者多米妮爾",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2010_s.png",
+      "name": "終結者傑拉圖",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4001_s.png",
+      "name": "混沌教屠殺追擊者",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4025_s.png",
+      "name": "混沌教巨斧大將軍",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1027_s.png",
+      "name": "查爾斯",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1009_s.png",
+      "name": "夏綠蒂",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1049_s.png",
+      "name": "克蘿愛",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1101_s.png",
+      "name": "小泡芙",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3123_s.png",
+      "name": "克莉絲媞",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3025_s.png",
+      "name": "伊利歐斯教斧兵",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1014_s.png",
+      "name": "席德",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1028_s.png",
+      "name": "克萊莉莎",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2027_s.png",
+      "name": "末日指揮官查爾斯",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1033_s.png",
+      "name": "可麗",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4035_s.png",
+      "name": "指揮官蘿里娜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2080_s.png",
+      "name": "司令官帕貝爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2089_s.png",
+      "name": "支配者莉莉亞斯",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1012_s.png",
+      "name": "科爾布思",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2054_s.png",
+      "name": "新月舞姬鈴兒",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2008_s.png",
+      "name": "紅焰亞敏",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1036_s.png",
+      "name": "克羅澤",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2012_s.png",
+      "name": "黑暗的科爾布思",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2090_s.png",
+      "name": "死亡探究者雷伊",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2053_s.png",
+      "name": "沙漠寶石巴薩爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2095_s.png",
+      "name": "設計師莉莉貝",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2022_s.png",
+      "name": "戴絲蒂娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1076_s.png",
+      "name": "迪埃妮",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1021_s.png",
+      "name": "汀果",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1094_s.png",
+      "name": "蒂姬",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4073_s.png",
+      "name": "製偶師波蘿萊珍",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1037_s.png",
+      "name": "多米妮爾",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3044_s.png",
+      "name": "朵莉思",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3094_s.png",
+      "name": "伊頓",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1111_s.png",
+      "name": "艾妲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1134_s.png",
+      "name": "愛德華．愛力克",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1091_s.png",
+      "name": "艾蕾娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1142_s.png",
+      "name": "艾利戈斯",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1105_s.png",
+      "name": "愛爾菲特",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3054_s.png",
+      "name": "艾爾森",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1116_s.png",
+      "name": "愛蜜莉雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3022_s.png",
+      "name": "艾諾特",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1108_s.png",
+      "name": "艾爾巴倫",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5050_s.png",
+      "name": "童話泰妮布里雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2046_s.png",
+      "name": "無神論者麗迪卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4003_s.png",
+      "name": "鷹獵人可露莉",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2002_s.png",
+      "name": "墮落的賽西莉亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2032_s.png",
+      "name": "戰鬥型瑪雅",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1110_s.png",
+      "name": "芙蘭",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3026_s.png",
+      "name": "永恆不變的黛莉亞",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1087_s.png",
+      "name": "尤貝烏斯",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2035_s.png",
+      "name": "大將法濟斯",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3103_s.png",
+      "name": "格倫",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3074_s.png",
+      "name": "格魯美蘭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3101_s.png",
+      "name": "教母",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2086_s.png",
+      "name": "大族長卡瓦娜",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2018_s.png",
+      "name": "求道者埃德勒",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3024_s.png",
+      "name": "坤特",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3135_s.png",
+      "name": "夏率",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1039_s.png",
+      "name": "海斯特",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3091_s.png",
+      "name": "哈坦",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3041_s.png",
+      "name": "海茲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3122_s.png",
+      "name": "海倫",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3023_s.png",
+      "name": "赫爾嘉",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5016_s.png",
+      "name": "度假風優芬妮",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4141_s.png",
+      "name": "聖炎的艾庭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3055_s.png",
+      "name": "修拉杜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1128_s.png",
+      "name": "和英",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3102_s.png",
+      "name": "伊安",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1113_s.png",
+      "name": "伊莉娜芙",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2085_s.png",
+      "name": "烈焰的卡瓦朱",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1024_s.png",
+      "name": "伊賽麗亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1130_s.png",
+      "name": "潔克·歐",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3131_s.png",
+      "name": "扎努塔",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3053_s.png",
+      "name": "傑克托",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3052_s.png",
+      "name": "捷娜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2006_s.png",
+      "name": "審判者綺世",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3011_s.png",
+      "name": "茱迪絲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3151_s.png",
+      "name": "珠妮",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1011_s.png",
+      "name": "卡琳",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1073_s.png",
+      "name": "卡威利",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1023_s.png",
+      "name": "凱隆",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1047_s.png",
+      "name": "肯恩",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1086_s.png",
+      "name": "卡瓦娜",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1085_s.png",
+      "name": "卡瓦朱",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3084_s.png",
+      "name": "奇奇拉特V.2",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3063_s.png",
+      "name": "奇麗絲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1006_s.png",
+      "name": "綺世",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2028_s.png",
+      "name": "貓咪克萊莉莎",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1107_s.png",
+      "name": "絆愛",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3003_s.png",
+      "name": "可露莉",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1070_s.png",
+      "name": "克勞烏",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1099_s.png",
+      "name": "指揮型萊伊卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1109_s.png",
+      "name": "蘭蒂",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c6011_s.png",
+      "name": "最後的碎片卡琳",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2070_s.png",
+      "name": "最後的騎士克勞烏",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3092_s.png",
+      "name": "雷娜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1029_s.png",
+      "name": "雷歐",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1046_s.png",
+      "name": "麗迪卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3153_s.png",
+      "name": "莉珈",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1089_s.png",
+      "name": "莉莉亞斯",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1095_s.png",
+      "name": "莉莉貝",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2079_s.png",
+      "name": "獅心王潔若米亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2009_s.png",
+      "name": "年輕的女王夏綠蒂",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2071_s.png",
+      "name": "一輪孤月維爾蘿娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3035_s.png",
+      "name": "蘿里娜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1031_s.png",
+      "name": "拉茲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1126_s.png",
+      "name": "露雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3113_s.png",
+      "name": "露西",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1069_s.png",
+      "name": "魯特比",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1082_s.png",
+      "name": "璐璐卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1066_s.png",
+      "name": "露娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4044_s.png",
+      "name": "魔法學者朵莉思",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2049_s.png",
+      "name": "僕人克蘿愛",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2047_s.png",
+      "name": "武鬥家肯恩",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4041_s.png",
+      "name": "吉祥物海茲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1032_s.png",
+      "name": "瑪雅",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2073_s.png",
+      "name": "協調者卡威利",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3121_s.png",
+      "name": "玫拉妮",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1096_s.png",
+      "name": "梅麗莎",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c0002_s.png",
+      "name": "玫勒賽德絲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4023_s.png",
+      "name": "自由自在的傭兵赫爾嘉",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/m0063_s.png",
+      "name": "偵查兵瑪伊堤",
+      "star": 2
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1122_s.png",
+      "name": "蜜莉姆",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3014_s.png",
+      "name": "米勒莎",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3072_s.png",
+      "name": "美絲緹彩",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3042_s.png",
+      "name": "蒙茉朗西",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c6037_s.png",
+      "name": "月兔多米妮爾",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1104_s.png",
+      "name": "魔勒",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3033_s.png",
+      "name": "穆卡察",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1044_s.png",
+      "name": "繆伊",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4062_s.png",
+      "name": "繆斯黎瑪",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3132_s.png",
+      "name": "武蔚",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3061_s.png",
+      "name": "尼姆拉斯",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5082_s.png",
+      "name": "海洋香氣璐璐卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2072_s.png",
+      "name": "操作員賽珂蘭特",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3133_s.png",
+      "name": "奧樂緹",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3045_s.png",
+      "name": "奧緹莉爾",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1080_s.png",
+      "name": "帕貝爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2087_s.png",
+      "name": "平衡的尤貝烏斯",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3073_s.png",
+      "name": "波蘿萊珍",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1125_s.png",
+      "name": "沛伊拉",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3125_s.png",
+      "name": "潘尼羅佩",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2110_s.png",
+      "name": "海盜船長芙蘭",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1112_s.png",
+      "name": "佛里蒂絲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1035_s.png",
+      "name": "法濟斯",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3005_s.png",
+      "name": "費莉絲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1115_s.png",
+      "name": "拉姆",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1118_s.png",
+      "name": "嵐",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1001_s.png",
+      "name": "拉斯",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1019_s.png",
+      "name": "蘿菲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1090_s.png",
+      "name": "雷伊",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1114_s.png",
+      "name": "雷姆",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2074_s.png",
+      "name": "殘影的菲奧雷托",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2102_s.png",
+      "name": "鎮魂的羅安納",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3075_s.png",
+      "name": "雷奎姆洛",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4051_s.png",
+      "name": "研究者卡蘿",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4013_s.png",
+      "name": "義賊魯茲德",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3034_s.png",
+      "name": "裏科黎司",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3062_s.png",
+      "name": "黎瑪",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1121_s.png",
+      "name": "利姆路",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1054_s.png",
+      "name": "鈴兒",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1136_s.png",
+      "name": "莉莎．霍克愛",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2029_s.png",
+      "name": "流浪勇士雷歐",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1102_s.png",
+      "name": "羅安納",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1043_s.png",
+      "name": "洛曼",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3013_s.png",
+      "name": "魯茲德",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1003_s.png",
+      "name": "蘿季",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1135_s.png",
+      "name": "羅伊．馬斯坦古",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1022_s.png",
+      "name": "光之瑞兒",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2015_s.png",
+      "name": "賢者巴爾＆塞尚",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4144_s.png",
+      "name": "救援者艾庭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1020_s.png",
+      "name": "修里",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5071_s.png",
+      "name": "海邊的維爾蘿娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1106_s.png",
+      "name": "賽娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4142_s.png",
+      "name": "清玄的艾庭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1040_s.png",
+      "name": "塞麗拉",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1038_s.png",
+      "name": "賽茲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4005_s.png",
+      "name": "黑騎士費莉絲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2003_s.png",
+      "name": "暗影蘿季",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1132_s.png",
+      "name": "莎倫",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4052_s.png",
+      "name": "引導者捷娜",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2017_s.png",
+      "name": "流星雅卡泰絲",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1123_s.png",
+      "name": "朱菜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1072_s.png",
+      "name": "賽珂蘭特",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1004_s.png",
+      "name": "席可",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2048_s.png",
+      "name": "白銀刀刃的雅拉敏塔",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2062_s.png",
+      "name": "罪戾的安潔莉卡",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1092_s.png",
+      "name": "索爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2111_s.png",
+      "name": "雪國的蘇莉塔妮亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3104_s.png",
+      "name": "蘇尼婭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2038_s.png",
+      "name": "實驗體賽茲",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2050_s.png",
+      "name": "幻影的泰妮布里雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2103_s.png",
+      "name": "靈眼的瑟琳",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1034_s.png",
+      "name": "史瑞杰思",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5009_s.png",
+      "name": "暑假夏綠蒂",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4012_s.png",
+      "name": "夏天的學生雅莉莎",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c5024_s.png",
+      "name": "南國的伊賽麗亞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1065_s.png",
+      "name": "蘇琳",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3155_s.png",
+      "name": "斯坦",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3015_s.png",
+      "name": "史賓",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2088_s.png",
+      "name": "森之賢者薇薇安",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1127_s.png",
+      "name": "太悟",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3152_s.png",
+      "name": "達拉士",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3154_s.png",
+      "name": "達黎兒",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "soul_weaver",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1067_s.png",
+      "name": "塔瑪林爾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3032_s.png",
+      "name": "塔拉諾爾禁衛隊員",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3002_s.png",
+      "name": "塔拉諾爾王宮士兵",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2065_s.png",
+      "name": "風雲蘇琳",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1050_s.png",
+      "name": "泰妮布里雅",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3021_s.png",
+      "name": "黛莉亞",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2082_s.png",
+      "name": "最強模特兒璐璐卡",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2036_s.png",
+      "name": "不法之徒克羅澤",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2023_s.png",
+      "name": "扭曲的亡靈凱隆",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1042_s.png",
+      "name": "泰溫",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4004_s.png",
+      "name": "自由騎士雅洛薇",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4143_s.png",
+      "name": "新綠的艾庭",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4103_s.png",
+      "name": "自衛隊隊長格倫",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1007_s.png",
+      "name": "維德瑞",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "thief",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1074_s.png",
+      "name": "菲奧雷托",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1088_s.png",
+      "name": "薇薇安",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3065_s.png",
+      "name": "汪達",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2004_s.png",
+      "name": "流浪者席可",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c2020_s.png",
+      "name": "注視者修里",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "light",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c3134_s.png",
+      "name": "尹凌",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1016_s.png",
+      "name": "優芬妮",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "knight",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1131_s.png",
+      "name": "律荷",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "ranger",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1030_s.png",
+      "name": "尤娜",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "warrior",
+      "element": "earth",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1119_s.png",
+      "name": "札哈克",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "fire",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c4071_s.png",
+      "name": "傳道者卡麥蘿茲",
+      "star": 3
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1083_s.png",
+      "name": "傑諾",
+      "star": 5
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "ice",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1010_s.png",
+      "name": "傑拉圖",
+      "star": 4
+    }
+  },
+  {
+    "model": "app.characters",
+    "fields": {
+      "role": "mage",
+      "element": "dark",
+      "image_url": "https://raw.githubusercontent.com/fribbels/Fribbels-Epic-7-Optimizer/main/data/cachedimages/c1133_s.png",
+      "name": "智武",
+      "star": 5
+    }
+  }
+]

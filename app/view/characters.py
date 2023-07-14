@@ -5,7 +5,7 @@ from rest_framework.response import Response
 from ..serializers import CharacterSerializer
 
 class CharacterListCreateView(generics.ListCreateAPIView):
-    queryset = Characters.objects.all()
+    queryset = Characters.objects.all().order_by('-star', '-element')
     serializer_class = CharacterSerializer
     filterset_fields = ['element', 'star']
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
