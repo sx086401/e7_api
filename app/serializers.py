@@ -58,16 +58,16 @@ class StateDetailSerializer(serializers.ModelSerializer):
             'necklace',
             'ring',
             'boots',
-            'weaponSet',
-            'helmetSet',
-            'armorSet',
-            'necklaceSet',
-            'ringSet',
-            'bootsSet',
+            'weapon_set',
+            'helmet_set',
+            'armor_set',
+            'necklace_set',
+            'ring_set',
+            'boots_set',
             'set1',
             'set2',
             'set3'
-          ]
+        ]
 
 class StateSerializer(serializers.ModelSerializer):
     id = serializers.ReadOnlyField()
@@ -99,8 +99,8 @@ class StateSerializer(serializers.ModelSerializer):
         character_id = validated_data.pop('character_id', None)
 
         if character_id:
-          character = Characters.objects.get(id=character_id)
-          instance.character = character
+            character = Characters.objects.get(id=character_id)
+            instance.character = character
 
         current_state = instance.current_state
         current_state.__dict__.update(**current_state_data)
