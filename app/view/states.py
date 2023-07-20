@@ -16,7 +16,7 @@ class StatesFilter(FilterSet):
         fields = ['element', 'star', 'role']
 
 class StateListCreateView(generics.ListCreateAPIView):
-    queryset = States.objects.all()
+    queryset = States.objects.all().order_by('-updated_at')
     serializer_class = StateSerializer
     filterset_class = StatesFilter
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]

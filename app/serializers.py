@@ -9,7 +9,7 @@ class UserSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Users
-        fields = ['id', 'name', 'password', 'is_active', 'created_at']
+        fields = ['id', 'username', 'password', 'is_active', 'created_at']
 
 class UserUpdateSerializer(serializers.ModelSerializer):
     id = serializers.ReadOnlyField()
@@ -17,7 +17,7 @@ class UserUpdateSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Users
-        fields = ['id', 'name', 'password', 'is_active', 'created_at']
+        fields = ['id', 'username', 'password', 'is_active', 'created_at']
 
 class CharacterSerializer(serializers.ModelSerializer):
     id = serializers.ReadOnlyField()

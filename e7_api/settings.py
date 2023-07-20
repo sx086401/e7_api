@@ -66,6 +66,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+AUTH_USER_MODEL = 'app.Users'
+
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
 ]

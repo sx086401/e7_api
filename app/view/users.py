@@ -1,5 +1,7 @@
 from app.models import Users
 from rest_framework import generics, permissions, authentication
+from rest_framework.views import APIView
+from django.contrib.auth import login
 from rest_framework.response import Response
 from ..serializers import UserSerializer, UserUpdateSerializer
 
@@ -35,3 +37,14 @@ class UserDeleteView(generics.DestroyAPIView):
     serializer_class = UserSerializer
     lookup_field = 'pk'
 
+class LoginView(APIView):
+    def post(self, request):
+        username = request.data.get('username')
+        password = request.data.get('password')
+        user = Users.objects.get(username=username, password=password)
+
+        if user is not None:
+            login(request, user)
+            return Response({'message': 'Login successful', 'user': user.username})
+        else:
+            return Response({'message': 'Invalid credentials'}, status=401)

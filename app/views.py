@@ -1,4 +1,4 @@
-from .view.users import UserListCreateView, UserDetailView, UserUpdateView, UserDeleteView
+from .view.users import LoginView, UserListCreateView, UserDetailView, UserUpdateView, UserDeleteView
 from .view.characters import CharacterListCreateView, CharacterDetailView, CharacterUpdateView
 from .view.states import StateDeleteView, StateListCreateView, StateUpdateView
 
@@ -9,6 +9,8 @@ user_detail_view = UserDetailView.as_view()
 user_update_view = UserUpdateView.as_view()
 
 user_delete_view = UserDeleteView.as_view()
+
+login_view = LoginView.as_view()
 
 character_list_create_view = CharacterListCreateView.as_view()
 
