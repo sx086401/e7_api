@@ -45,6 +45,6 @@ class LoginView(APIView):
 
         if user is not None:
             login(request, user)
-            return Response({'message': 'Login successful', 'user': user.username})
+            return Response({'message': 'Login successful', 'username': user.username})
         else:
             return Response({'message': 'Invalid credentials'}, status=401)
