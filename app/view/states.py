@@ -31,3 +31,11 @@ class StateDeleteView(generics.DestroyAPIView):
     queryset = States.objects.all()
     serializer_class = StateSerializer
     lookup_field = 'pk'
+
+    def destroy(self, request, *args, **kwargs):
+        instance = self.get_object()
+
+        instance.current_state.delete()
+        instance.expect_state.delete()
+
+        return super().destroy(request, *args, **kwargs)
