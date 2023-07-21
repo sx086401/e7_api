@@ -12,6 +12,10 @@ Run migrate with
 
 `python3 manage.py migrate`
 
+import data
+
+`python3 manage.py loaddata fixtures/characters.json`
+
 Start the sever
 
 `python3 manage.py runserver`
