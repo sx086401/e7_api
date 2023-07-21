@@ -72,6 +72,7 @@ AUTH_USER_MODEL = 'app.Users'
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'https://sx086401.github.io/'
 ]
 
 ROOT_URLCONF = 'e7_api.urls'
