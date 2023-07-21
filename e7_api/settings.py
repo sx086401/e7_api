@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-=g$5hsy)zuu=dnbjtn82%3wvip_sr&hk&u$93a4o-t-hu^83)&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['e7-state-management.zeabur.app', 'localhost', '127.0.0.1']
 
 
 # Application definition
