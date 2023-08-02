@@ -78,7 +78,7 @@ class StateSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = States
-        fields = ['id', 'character_id', 'character', 'current_state', 'expect_state', 'editor']
+        fields = ['id', 'character_id', 'character', 'current_state', 'expect_state', 'editor', 'artifact1', 'artifact2', 'artifact3', 'exclusive_equipment']
         depth = 1
 
     def create(self, validated_data):
