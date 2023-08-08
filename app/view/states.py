@@ -1,5 +1,6 @@
 from rest_framework import generics, filters
 from rest_framework.response import Response
+from rest_framework.pagination import PageNumberPagination
 from django_filters.rest_framework import DjangoFilterBackend, FilterSet
 from django_filters import FilterSet, CharFilter
 from app.models.states import States
@@ -15,9 +16,13 @@ class StatesFilter(FilterSet):
         model = States
         fields = ['element', 'star', 'role']
 
+class StatePagination(PageNumberPagination):
+    page_size = 20
+
 class StateListCreateView(generics.ListCreateAPIView):
     queryset = States.objects.all().order_by('-updated_at')
     serializer_class = StateSerializer
+    pagination_class = StatePagination
     filterset_class = StatesFilter
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
     search_fields = ['$editor', '$character__name']
