@@ -109,8 +109,8 @@ DATABASES = {
         'NAME': 'e7_db',
         'USER': 'postgres',
         'PASSWORD': os.environ.get('PGPASSWORD'),
-        'HOST': 'zeabur-gcp-asia-east1-1.clusters.zeabur.com',
-        'PORT': '31578'
+        'HOST': 'tpe0.clusters.zeabur.com',
+        'PORT': '32612'
     }
 }
 
